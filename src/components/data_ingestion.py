@@ -8,7 +8,7 @@ class DataIngestionConfig:
     train_dataset_path=os.path.join("artifacts/traintestdataset","train_dataset.csv")
     test_dataset_path=os.path.join("artifacts/traintestdataset","test_dataset.csv")
 
-class InitiateDataIngestion:
+class DataIngestion:
     def __init__(self):
         self.data_ingestion_config=DataIngestionConfig()
 
