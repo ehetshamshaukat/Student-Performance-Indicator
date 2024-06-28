@@ -1,1 +1,5 @@
 venv/
+StudentPerformanceIndicator.egg-info/
+.DS_Store
+.idea/
+artifacts/pickle/
