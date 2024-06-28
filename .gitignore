@@ -5,3 +5,4 @@ StudentPerformanceIndicator.egg-info/
 artifacts/pickle/
 src/__pycache__/utils.cpython-38.pyc
 src/components/__pycache__/data_transformation.cpython-38.pyc
+src/components/__pycache__/model_training.cpython-38.pyc
