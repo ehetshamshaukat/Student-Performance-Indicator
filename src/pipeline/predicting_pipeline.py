@@ -1,6 +1,5 @@
 import pandas as pd
 import os
-
 from src.utils import load_model
 
 
